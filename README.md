@@ -8,7 +8,6 @@ This is the Individual Assignment where I have selected Products page from our e
 * *Git URL*: https://git.cs.dal.ca/srishti/csci-5709-sr381365individual/-/tree/main/Assignments/A1
 
 ## Authors
-
 * [Srishti Jain](sr381365@dal.ca) - Developer
 
 ## Testing
