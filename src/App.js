@@ -1,7 +1,7 @@
 import Products from './components/Products/Products'
 import NavBar from './components/Nav/NavBar'
 import Footer from './components/Footer/Footer'
-import { AppBar } from '@mui/material';
+
 
 
 function App() {
