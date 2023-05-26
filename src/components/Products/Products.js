@@ -1,5 +1,5 @@
 import React from "react";
-import {Box, Container, Typography} from "@mui/material"
+import {Box, Typography} from "@mui/material"
 import ProductList from "./ProductList"
 
 export default function Products(){

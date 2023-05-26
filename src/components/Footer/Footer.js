@@ -1,6 +1,6 @@
 import React from 'react'
 import Box from '@mui/material/Box';
-import { Grid, List, ListItemText, Stack, Typography, withTheme } from '@mui/material'
+import { Grid, List, ListItemText, Typography } from '@mui/material'
 import FaceBookIcon from '@mui/icons-material/Facebook'
 import TwitterIcon from '@mui/icons-material/Twitter'
 import InstagramIcon from '@mui/icons-material/Instagram'
