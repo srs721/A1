@@ -61,7 +61,7 @@ export default function ProductList() {
   
 
   return (     
-            <Grid sx={{mt:12, mb:8, p:2,pt:2,my:2}} container spacing={2} >
+            <Grid sx={{mt:12, mb:7, p:2,pt:2,my:2}} container spacing={2} >
             
             {products.map(product=> (
             <Grid item md={3}> 
@@ -91,7 +91,7 @@ export default function ProductList() {
                  <Box sx={{
                      display: "flex", alignItems:"center"
                  }}>                
-                 <Rating name="half-rating" defaultValue={2.5} precision={0.5} />
+                 <Rating name="half-rating" defaultValue={product.rating} precision={0.5} />
                  <Typography>{product.rating}</Typography>
                  </Box>
 
