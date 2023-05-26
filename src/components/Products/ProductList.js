@@ -61,7 +61,7 @@ export default function ProductList() {
   
 
   return (     
-            <Grid sx={{mt:12, mb:5, p:2,pt:2,my:2}} container spacing={2} >
+            <Grid sx={{mt:12, mb:8, p:2,pt:2,my:2}} container spacing={2} >
             
             {products.map(product=> (
             <Grid item md={3}> 
